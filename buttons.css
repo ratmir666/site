@@ -1,0 +1,162 @@
+.ButtonMain {
+	width: 145px;
+	height: 23px;
+	border-radius: 8px;
+	background: #127E00;
+	margin: 0 auto;
+	margin-top: 15px;
+	display: table;
+	padding-top: 2px;
+	margin-bottom: -4px;
+	color:#FFF;
+	border-style: none;
+	cursor: pointer;
+}
+
+#List{
+	width: 145px;
+	height: 23px;
+	background-color: #FF9900;
+	border-radius: 8px;
+	margin: 0 auto;
+	margin-top: 15px;
+	display: table;
+	padding-top: 2px;
+	margin-bottom: -4px;
+	color:#000000;
+}
+
+.ButtonMain:hover {
+	background: #124e00;
+}
+
+.new1 {
+	margin-left: 15%;
+	margin-top: 10px;
+	width: 587px;
+	height: 135px;
+	border-radius: 8px;
+	background: #D9D9D9;
+	color:black;
+	margin-bottom: 5px;
+}
+
+.NewsName {
+	font-size:26px;
+	margin-left: 300px;
+	margin-top: -120px;
+}
+
+.NewsContent {
+	width:336px;
+	margin-left: 240px;
+	font-size:18px;
+	height: 70px;
+	
+}
+
+.More {
+	font-size:18px;
+	margin-left: 490px;
+}
+
+#Table{
+	border-radius: 8px;
+	background-color: #FF9900;
+	width:136px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 18px;
+	color:#000000;
+	padding-top: 8px;
+}
+
+#Reg {
+	background: #D9D9D9;
+	width:136px;
+	height: 157px;
+	margin: 0 auto;
+	margin-top: 5px;
+	border-radius: 8px;
+}
+
+input {
+	width:80%;
+	height: 23px;
+	border-radius: 8px;
+	margin-left: 8%;
+	margin-top: 9px;
+	font-size: 18px;
+	background: #BAB9B9;
+	border: none;
+}
+
+#ForgetPassw {
+	margin-top: 4px;
+	margin-left: 8%;
+}
+
+.SmallButton {
+	font-size: 18px;
+	display: table;
+	width:83%;
+	border-radius: 8px;
+	margin: 0 auto;
+	margin-top: 6px;
+	background: #127E00;
+	height: 21px;
+	text-align: center;
+	padding-top: 2px;
+	color:#FFF;
+}
+
+.SmallButton:hover {
+	background: #124e00;
+} 
+
+#Monitor {
+	background: #D9D9D9;
+	width:136px;
+	height: 350px;
+	margin: 0 auto;
+	margin-top: 5px;
+	border-radius: 8px;
+	font-size: 16px;
+	color:#000000;
+	display: Table;
+}
+
+.Hardcore {
+	color:#FF0101;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.version{
+	color:#FF9900;
+	margin-left: 5px;
+}
+
+.NameSer {
+	margin-left: 5px;
+}
+
+.CountOnline {
+	color:#25B900;
+	margin-left: 110px;
+	margin-top: -37px;
+	padding-bottom: 15px;
+	cursor: default;
+}
+
+.ButtonClick {
+	color:#FFF;
+}
+
+.MicroButt {
+	height: 32px;
+	margin: 0 auto;
+	margin-top: 6px;
+}
